@@ -278,7 +278,7 @@ nav.wrap {
   padding: 16px 0;
   border-top: 1px solid var(--border);
 }
-.pub-item:first-child { border-top: none; }
+.pub-item:first-of-type { border-top: none; }
 .pub-item .pub-title { font-size: 15px; font-weight: 500; }
 .pub-item .pub-meta { font-size: 13px; color: var(--text-muted); margin-top: 4px; }
 
